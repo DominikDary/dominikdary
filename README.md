@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I’m passionate about solving challenges combining the technical and human aspects to delight the customers with high quality products. 
+By creating (test) strategies, processes, tools and organizations to provide fast feedback which enables organizations to quickly adapt and change the product.
+Fostering a culture of respect, collaboration, empowerment, and innovation is majorly important to me.
+
 <!--
 **DominikDary/dominikdary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
