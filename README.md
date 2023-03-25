@@ -28,5 +28,5 @@ You can find the exhaustive list [here](http://dary.de/about-dominik/)
 
 - [Blog](https://dary.de/)
 - [Twitter](https://twitter.com/dominikdary)
-- [Mastodon](@dominikdary@hachyderm.io)
+- [Mastodon](https://hachyderm.io/@dominikdary)
 - [LinkedIn](https://www.linkedin.com/in/dominikdary/)
