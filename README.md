@@ -1,15 +1,12 @@
 # 👋 {[Dominik Dary](https://dary.de/)}
 
-## 👨🏻‍💻 🇩🇪 Who am I 
+## 👨🏻‍💻 Who am I
 
-- I have a strong passion for Test and Automation engineering and am a **polyglot programmer** who loves to code in **Java and Python**
-- I’m passionate about solving challenges combining the technical and human aspects to delight the customers with high quality products. By creating (test) strategies, processes, tools and organizations to provide fast feedback which enables organizations to quickly adapt and change the product. Fostering a culture of respect, collaboration, empowerment, and innovation is majorly important to me.
-
-
-## 🌱 I’m currently learning about ...
-
-- Data Science with practical data analysis with Python & Pandas and AI
-- High Impact Teaming Facilitation Techniques
+Quality engineering leader who bridges technical innovation with human-centered approaches to deliver exceptional products. 
+I've built and scaled engineering organizations that embrace quality as a shared responsibility—strategically focusing our team's expertise on comprehensive business scenario testing in the outer loop while enabling developers with specialized test data shapes and coaching for functional testing in the inner loop. 
+My teams deliver automated testing capabilities and data generation solutions that accelerate development cycles while raising quality standards. 
+A strategic thinker equally invested in technical excellence and fostering collaborative environments where respect and empowerment drive success. 
+Creator of open-source projects like selendroid and s3-mock, now exploring AI applications to transform quality engineering practices.​​​​​​​​​​​​​​​​
 
 ## 📝 [I write at ...](https://dary.de)
 
